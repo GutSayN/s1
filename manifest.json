@@ -1,0 +1,20 @@
+{
+    "name": "Mi Login PWA NORMA SUYURI",
+    "short_name": "MiLOGINPWA_sayuri ",
+    "description": "LOGIN  Norma Suyuri ",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation":"portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#4d0343",
+    "escope":"./",
+
+    "icons": [
+      {
+        "src":"./miicono.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
